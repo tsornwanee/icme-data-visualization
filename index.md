@@ -40,10 +40,10 @@ This class will cover key data visualization skills for data science application
   - Missing or invalid data
   - Bar charts, scatter plots, line plots with error bands, histograms, box plots, heatmaps, pearplots
   - Implementation in Python 
-    - Loading and exploring data with pandas
-    - pandas-profiling/ydata-profiling
-    - Introduction to matplotlib and seaborn 
-    - How to navigate package documentation
+    * Loading and exploring data with pandas
+    * pandas-profiling/ydata-profiling
+    * Introduction to matplotlib and seaborn 
+    * How to navigate package documentation
   - Exercise: EDA of sample data sets
 3. Data Visualization for Others: Communicating Findings
   - What should you consider when designing for communication? How is it different from EDA? 

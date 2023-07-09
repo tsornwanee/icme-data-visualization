@@ -55,19 +55,19 @@ This class will cover key data visualization skills for data science application
 # Workshop Materials
 
 ### Lecture
-[[Q&A](https://app.sli.do/event/dmh2Pd1cJ7g8Wym5eQkaX1)]
-*Zoom link to follow*
+- [[Q&A](https://app.sli.do/event/dmh2Pd1cJ7g8Wym5eQkaX1)]
+- *Zoom link to follow*
 
 ### Notebooks
-*Notebooks to follow*
+- *Notebooks to follow*
 
 ### Slides
-*Slides to follow*
+- *Slides to follow*
 
 ### Datasets
-[[Dataset for Lecture Examples](/docs/weather_anomalies_data.csv)]
+- [[Dataset for Lecture Examples](/docs/weather_anomalies_data.csv)]
 *Source: National Oceanic and Atmospheric Administration*
-[[Dataset for Exercises](/docs/airline_delay_data.csv)]
+- [[Dataset for Exercises](/docs/airline_delay_data.csv)]
 *Source: United States Department of Transportation, Department of Transportation Statistics*
 
 

@@ -13,9 +13,9 @@ After this class, you will:
 
 
 ## About the Instructor
-![Kaleigh Mentzer](/assets/img/profile.jpg){:style="max-width:30%;"}
+![Kaleigh Mentzer](/assets/img/kaleigh_mentzer_small.jpg){:style="max-width:30%;"}
 
-Kaleigh is a research engineer working on large-scale data problems for a stealth startup. She recently completed her Ph.D. from ICME at Stanford. Her doctoral work on computational approaches to improving equitable access to education in the San Francisco Unified School District (with professors Irene Lo and Itai Ashlagi) has influenced recent education policy decisions in the city.
+[Kaleigh Mentzer](https://klmentzer.github.io/) is a research engineer working on large-scale data problems for a stealth startup. earned her PhD in Computational and Mathematical Engineering from Stanford, advised by Irene Lo and Itai Ashlagi. Her research focuses on using algorithmic and optimization-based tools to improve equitable access to education and has informed educational policy decisions in San Francisco.
 
 ## Prerequisites
 This workshop is designed to be accessible to beginners with basic experience with Python, on the level of workshop SWS 02  (Introduction to Python). 
@@ -33,18 +33,13 @@ This class will cover key data visualization skills for data science application
 1. Why Data Visualization 
   - Why do we need data visualization to understand our data? 
   - Roles of data visualization
-  - Research example
 2. Data Visualization for Yourself: Exploratory Data Analysis
   - What is exploratory data analysis (EDA)? 
   - Nominal, ordinal, and quantitative data
   - Missing or invalid data
   - Bar charts, scatter plots, line plots with error bands, histograms, box plots, heatmaps, pearplots
   - Implementation in Python 
-    * Loading and exploring data with pandas
-    * pandas-profiling/ydata-profiling
-    * Introduction to matplotlib and seaborn 
-    * How to navigate package documentation
-  - Exercise: EDA of sample data sets
+  - Exercise: EDA of sample data set
 3. Data Visualization for Others: Communicating Findings
   - What should you consider when designing for communication? How is it different from EDA? 
   - Human visual perception considerations for data visualization design
@@ -59,28 +54,38 @@ This class will cover key data visualization skills for data science application
 
 # Workshop Materials
 
+### Lecture
+[[Q&A](https://app.sli.do/event/dmh2Pd1cJ7g8Wym5eQkaX1)]
+*Zoom link to follow*
+
+### Notebooks
+*Notebooks to follow*
+
+### Slides
+*Slides to follow*
+
+### Datasets
+[[Dataset for Lecture Examples](/docs/weather_anomalies_data.csv)]
+*Source: National Oceanic and Atmospheric Administration*
+[[Dataset for Exercises](/docs/airline_delay_data.csv)]
+*Source: United States Department of Transportation, Department of Transportation Statistics*
+
+
 ## Pre-workshop Checklist
 1. You should have received a welcome email with the Zoom link and password. Please email us (kmentzer@stanford.edu) if you haven’t.
-2. Familiarize yourself with the schedule and see you Thursday August 3rd at 1:00 pm PT!
+2. Familiarize yourself with the schedule and see you Wednesday August 2nd at 1:00 pm PT!
 
 ## Schedule
-#### Monday August 15th [[slides](/docs/day1-digital-exhaust-and-ml.pdf)] [[zoom recording](https://stanford.zoom.us/rec/share/AkpiSzqyUvzlQZdslmzvElXjFpS2fvteI50BemyZFcA-D3mdocRsoy1WJdkoysOh.cEQOPM8XKS_kPBBQ?startTime=1660592689000)]
-- Part 1 (1:00-2:00 PM)
-  - Introduction, digital exhaust
-- Part 2 (2:00-3:00 PM)
-  - Discussion: recommender system design
-- Part 3 (3:00-4:00 PM)
-  - Machine learning with relational data
-  - [Jupyter notebook](https://nbviewer.org/urls/dl.dropbox.com/s/8f06s0oetf5utxd/ICME%20Data%20Privacy%20%26%20Ethics%20Course.ipynb)
+#### Wednesday August 2nd - Intro and Exploratory Data Analysis
   
-#### Tuesday August 16th [[slides](/docs/day2-dp-transparency-regulation.pdf)] [[zoom recording](https://stanford.zoom.us/rec/share/Zq3mqcYu1on_zbCgv8uOjdB6ajBcM76GjH1svFK25JgC4vXuLG3NeU7HTiWverBN.aBh9JBlYnp4uCd-B?startTime=1660679030000)]
-- Part 4 (1:00-2:00 PM)
-  - Differential privacy
-- Part 5 (2:00-3:00 PM)
-  - Discussion: transparency & public records
-- Part 6 (3:00-4:00 PM)
-  - GDPR and privacy regulation
-
+- 1:00 - 2:15 PM - Introduction, Why data visualization is important
+- 2:15 - 2:30 PM – Break
+- 2:30 - 4:00 PM - Exploratory Data Analysis
+  
+#### Thursday August 3rd – Data Visualization for Communication
+- 1:00 - 2:15 PM - Desinging data visualization for others
+- 2:30 - 2:45 PM – Break
+- 2:45 - 4:00 PM - Data visualization Examples, Peer Feedback, Wrap Up
 
 
 

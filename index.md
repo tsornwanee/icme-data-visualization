@@ -37,7 +37,7 @@ This class will cover key data visualization skills for data science application
   - What is exploratory data analysis (EDA)? 
   - Nominal, ordinal, and quantitative data
   - Missing or invalid data
-  - Bar charts, scatter plots, line plots with error bands, histograms, box plots, heatmaps, pearplots
+  - Bar charts, scatter plots, line plots, histograms, heatmaps, pairplots
   - Implementation in Python 
   - Exercise: EDA of sample data set
 3. Data Visualization for Others: Communicating Findings
@@ -72,19 +72,20 @@ This class will cover key data visualization skills for data science application
 
 
 ## Pre-workshop Checklist
-1. You should have received a welcome email with the Zoom link and password. Please email us (kmentzer@stanford.edu) if you haven’t.
-2. Familiarize yourself with the schedule and see you Wednesday August 2nd at 1:00 pm PT!
+1. Please test your Google Colab setup by following [these instructions](https://docs.google.com/document/d/1TF9lk1zdpdymE7RkUQOCAoWp_Y3k7CUirh5-HnDjvvM/edit?usp=sharing).
+2. If you have never used the Python package `pandas` before, you may want to watch a brief intro video such as [this one](https://youtu.be/w4cZnVUTnYg).
 
+ Please email us (kmentzer@stanford.edu) if you encounter any challenges with .
 ## Schedule
 #### Wednesday August 2nd - Intro and Exploratory Data Analysis
   
 - 1:00 - 2:15 PM - Introduction, Why data visualization is important
-- 2:15 - 2:30 PM – Break
+- 2:15 - 2:30 PM – Break *(Exact time TBD)*
 - 2:30 - 4:00 PM - Exploratory Data Analysis
   
 #### Thursday August 3rd – Data Visualization for Communication
 - 1:00 - 2:15 PM - Desinging data visualization for others
-- 2:30 - 2:45 PM – Break
+- 2:30 - 2:45 PM – Break *(Exact time TBD)*
 - 2:45 - 4:00 PM - Data visualization Examples, Peer Feedback, Wrap Up
 
 

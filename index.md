@@ -75,7 +75,7 @@ This class will cover key data visualization skills for data science application
 1. Please test your Google Colab setup by following [these instructions](https://docs.google.com/document/d/1TF9lk1zdpdymE7RkUQOCAoWp_Y3k7CUirh5-HnDjvvM/edit?usp=sharing).
 2. If you have never used the Python package `pandas` before, you may want to watch a brief intro video such as [this one](https://youtu.be/w4cZnVUTnYg).
 
- Please email us (kmentzer@stanford.edu) if you encounter any challenges with .
+ Please email us (kmentzer@stanford.edu) if you encounter any challenges with the pre-workshop requests.
 ## Schedule
 #### Wednesday August 2nd - Intro and Exploratory Data Analysis
   

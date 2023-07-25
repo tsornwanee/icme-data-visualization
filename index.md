@@ -15,7 +15,7 @@ After this class, you will:
 ## About the Instructor
 ![Kaleigh Mentzer](/assets/img/kaleigh_mentzer_small.jpg){:style="max-width:30%;"}
 
-[Kaleigh Mentzer](https://klmentzer.github.io/) is a research engineer working on large-scale data problems for a stealth startup. earned her PhD in Computational and Mathematical Engineering from Stanford, advised by Irene Lo and Itai Ashlagi. Her research focuses on using algorithmic and optimization-based tools to improve equitable access to education and has informed educational policy decisions in San Francisco.
+[Kaleigh Mentzer](https://klmentzer.github.io/) is a research engineer working on large-scale data problems for a stealth startup. She earned her PhD in Computational and Mathematical Engineering from Stanford, advised by Irene Lo and Itai Ashlagi. Her research focuses on using algorithmic and optimization-based tools to improve equitable access to education and has informed educational policy decisions in San Francisco.
 
 ## Prerequisites
 This workshop is designed to be accessible to beginners with basic experience with Python, on the level of workshop SWS 02  (Introduction to Python). 

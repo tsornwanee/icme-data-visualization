@@ -71,7 +71,7 @@ This class will cover key data visualization skills for data science application
 3. Develop 1-3 candidate ideas for a visualization to polish tomorrow. 
 
 ### Slides
-- *Slides to follow*
+- [[Day 1 Slides](docs/Data%20Science%20Workshop%20-%20Data%20Visualization%20Day%201%20.pdf)]
 
 ### Datasets
 - [[Dataset for Lecture Examples](/docs/weather_anomalies_data.csv)]

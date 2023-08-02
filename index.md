@@ -55,11 +55,22 @@ This class will cover key data visualization skills for data science application
 # Workshop Materials
 
 ### Lecture
+- [[Zoom Link](https://stanford.zoom.us/j/95211729574?pwd=ZGpOU0ovM3NiTE9xRkpiVXc1MEV0QT09)]
 - [[Q&A](https://app.sli.do/event/dmh2Pd1cJ7g8Wym5eQkaX1)]
-- *Zoom link to follow*
 
 ### Notebooks
-- *Notebooks to follow*
+- [[Day 1 Exercise Notebook](https://colab.research.google.com/drive/1qJ8zDIzuK2BKEPobcmiNFZsT7bPdYoGN?usp=sharing)]
+- [[Day 1 Completed Demo Notebook](https://colab.research.google.com/drive/1u4Jg7m07V2Q6nJOj6eRf2dZlfPtsJs97?usp=sharing)]
+
+### In-Class Exercises
+**Day 1:**
+1. Get Google Colab notebook running.
+2. Make a ydata_profiling report for the airline delay data. 
+
+### Homework for Wednesday Night
+1. Explore the Airline Delay dataset using the tools you learned today. 
+2. Create a scatter plot of departure delay vs arrival delay. How correlated are the two? What does this suggest about why flights are delayed?
+3. Develop 1-3 candidate ideas for a visualization to polish tomorrow. 
 
 ### Slides
 - *Slides to follow*

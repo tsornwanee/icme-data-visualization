@@ -48,8 +48,6 @@ This class will cover key data visualization skills for data science application
   - Data storytelling
   - Positive and negative data visualization examples
   - Exercise: Build a visualization and get peer feedback on design
-  - Extensions (maps, graphs, animation, interactivity)
-
 
 
 # Workshop Materials

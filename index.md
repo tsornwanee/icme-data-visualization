@@ -59,11 +59,24 @@ This class will cover key data visualization skills for data science application
 ### Notebooks
 - [[Day 1 Exercise Notebook](https://colab.research.google.com/drive/1qJ8zDIzuK2BKEPobcmiNFZsT7bPdYoGN?usp=sharing)]
 - [[Day 1 Completed Demo Notebook](https://colab.research.google.com/drive/1u4Jg7m07V2Q6nJOj6eRf2dZlfPtsJs97?usp=sharing)]
+- [[Day 2 Completed Demo Notebook](https://colab.research.google.com/drive/1sV37hP05JsSsKFmrKrKHGJqMCOnn9seT?usp=sharing)]
 
 ### In-Class Exercises
 **Day 1:**
 1. Get Google Colab notebook running.
 2. Make a ydata_profiling report for the airline delay data. 
+
+**Day 2:**
+Solo Exercise:
+1. Refine a visualization based on one of the findings in the exploratory data analysis process. Think about a descriptive title, labels, and legends! 
+2. Don’t worry if you don’t finish. You’ll have the chance to share your ideas with a peer later and get feedback.
+
+Group Exercise:
+1. Introduce yourself to your partner
+2. The person whose first name comes first alphabetically shows their visualization first, and the non-visualization designer will explain back what they think the point of the visualization is. 
+3. Discuss what went well and what the designer can improve to communicate more clearly
+4. Swap roles and repeat
+
 
 ### Homework for Wednesday Night
 1. Explore the Airline Delay dataset using the tools you learned today. 
@@ -78,6 +91,21 @@ This class will cover key data visualization skills for data science application
 *Source: National Oceanic and Atmospheric Administration*
 - [[Dataset for Exercises](/docs/airline_delay_data.csv)]
 *Source: United States Department of Transportation, Department of Transportation Statistics*
+
+## Resources
+**Colors:**
+- [Coolors](https://coolors.co/)
+- [Colblindor Color Blindness Simulator](https://www.color-blindness.com/coblis-color-blindness-simulator/)
+
+**Data Storytelling - Resources:**
+- [Design for an Audience](http://style.org/ku/)
+- [Storytelling with Data Book](https://www.storytellingwithdata.com/)
+
+**Data Storytelling – Examples:**
+- [The Pudding](https://pudding.cool/)
+- [NYT Graphics](https://www.nytimes.com/spotlight/graphics)
+- [Information is Beautiful](https://informationisbeautiful.net/)
+- [Flowing Data](https://flowingdata.com/)
 
 
 ## Pre-workshop Checklist

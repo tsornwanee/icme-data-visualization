@@ -56,6 +56,11 @@ This class will cover key data visualization skills for data science application
 - [[Zoom Link](https://stanford.zoom.us/j/95211729574?pwd=ZGpOU0ovM3NiTE9xRkpiVXc1MEV0QT09)]
 - [[Q&A](https://app.sli.do/event/dmh2Pd1cJ7g8Wym5eQkaX1)]
 
+### Recordings
+- [[Day 1 Recording](https://stanford.zoom.us/rec/share/azkSv9qIFygXtoO8knXjCh6vbK5CmnzNgLNhp7MKwwWt4k2L1B2D40wsqROpAKB0.h1YncaPhA9a3whrK?startTime=1691005210000)]
+- [[Day 2 Recording Part 1](https://stanford.zoom.us/rec/share/5v7elrqZS38fpI9ZmkNjtZd8IVHHl7MNAIyfB-bRS-nUqpzWubtSgRKbnH5YpwZ_._UCtX_Ai8eXG6AVN?startTime=1691091983000)]
+- [[Day 2 Recording Part 2](https://stanford.zoom.us/rec/share/5v7elrqZS38fpI9ZmkNjtZd8IVHHl7MNAIyfB-bRS-nUqpzWubtSgRKbnH5YpwZ_._UCtX_Ai8eXG6AVN?startTime=1691102274000)]
+
 ### Notebooks
 - [[Day 1 Exercise Notebook](https://colab.research.google.com/drive/1qJ8zDIzuK2BKEPobcmiNFZsT7bPdYoGN?usp=sharing)]
 - [[Day 1 Completed Demo Notebook](https://colab.research.google.com/drive/1u4Jg7m07V2Q6nJOj6eRf2dZlfPtsJs97?usp=sharing)]

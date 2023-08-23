@@ -90,6 +90,7 @@ Group Exercise:
 
 ### Slides
 - [[Day 1 Slides](docs/Data%20Science%20Workshop%20-%20Data%20Visualization%20Day%201%20.pdf)]
+- [[Day 2 Slides](docs/Data%20Science%20Workshop%20-%20Data%20Visualization%20Day%202.pdf)]
 
 ### Datasets
 - [[Dataset for Lecture Examples](/docs/weather_anomalies_data.csv)]
